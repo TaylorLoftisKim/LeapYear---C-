@@ -1,0 +1,11 @@
+If input is divisible by 400, return true.
+ExampleInput: 400 || 800 || 2000;
+ExampleOutput: True || True || True;
+
+If input is divisible by 100, return false.
+ExampleInput: 100 || 1500 || 1900;
+ExampleOutput: True || True || True;
+
+If input is divisible by 4, return true.
+ExampleInput: 4 || 1980 || 2016;
+ExampleOutput: True || True || True;
